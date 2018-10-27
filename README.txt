@@ -15,9 +15,9 @@ OpenCV 2.4.8
 
 Does not need any further installation; the OpenCV dependency files are included in the folder.
 
-If you have your own prosthetic hand simply enter the command-line, navigate to the TPFinal folder, and run ‘python BPS.py’.
+If you have your own Arduino-controlled prosthetic hand, upload the script "arduino_python_comms.ino" to the hand. Then enter the command-line, navigate to the TPFinal folder, and run ‘python BPS.py’.
 
-If you don’t have your very own prosthetic hand, enter the command-line, navigate to the TPFinal folder, and run ‘python BPS-handless.py’.
+If you don’t have your very own prosthetic hand, simply enter the command-line, navigate to the TPFinal folder, and run ‘python BPS-handless.py’.
 
 Bot Paper Scissors is an OpenCV-based project that plays rock-paper-scissors against the player using a robotic hand as the computer’s avatar.
 
