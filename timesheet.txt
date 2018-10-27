@@ -1,0 +1,8 @@
+3 hours - project proposal
+1.5 hours - competitive analysis
+1 hour - storyboard
+15 hours - TP1 code artifacts
+20 hours - for TP2: writing DEMO, writing arduino-python-comms, finding and testing hand detection programs, integrating hand detection programs into DEMO, debugging, documentation
+15 hours - for TP3: writing GUI, creating game modes, integrating game modes and GUI into DEMO, debugging GUI and game modes, documentation,
+4 hours - making video, fixing technical difficulties, editing video
+3 hours - finalizing TP3, compiling design documents, writing README, 
